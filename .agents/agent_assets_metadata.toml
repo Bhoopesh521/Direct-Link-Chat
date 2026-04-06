@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "oAzUlsztRGEGgw8ee8219"
+uri = "file://artifacts/p2p-app/assets/images/icon.png"
+type = "image"
+title = "p2p app icon"
