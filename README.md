@@ -1,6 +1,11 @@
 # P2P Chat & File Share
 No servers. No signaling. Just direct P2P over Yggdrasil.
 
+<p align="center">
+  <img src="oie_png.png" width="590">
+</p>
+
+
 
 ## What
 Android app for chat + file sharing. Connects directly to peers using Yggdrasil IPv6 addresses. No central anything.
