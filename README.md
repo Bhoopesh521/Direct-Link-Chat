@@ -31,8 +31,8 @@ npm install
 eas build --platform android
 ```
 
-EAS configs included for GitHub Actions. ~~ APK release soon. ~~
-**APK released check the releases. !! **
+EAS configs included for GitHub Actions. ~~APK release soon.~~
+**APK released check the releases. !!**
 
 
 ## Quirks (Not Bugs, Just Vibes)
